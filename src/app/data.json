@@ -1,0 +1,60 @@
+{
+    "sunSign": "Sagittarius",
+    "moonSign": "Taurus",
+    "ascendant": "Capricorn",
+    "personalityTraits": [
+        "Optimistic",
+        "Independent",
+        "Practical",
+        "Grounded",
+        "Disciplined",
+        "Ambitious"
+    ],
+    "luckyNumbers": [
+        3,
+        6,
+        9
+    ],
+    "dailyHoroscope": "Today is a good day to focus on your communication skills. Express yourself clearly and avoid misunderstandings. Be open to new ideas and perspectives.",
+    "monthlyHoroscope": "This month brings opportunities for growth in your career. Stay focused and work hard to achieve your goals. Be mindful of your health and take time to relax.",
+    "twelveHouses": {
+        "career": "Your career is likely to see progress this month. Networking can open new doors. Stay dedicated and persistent.",
+        "relationships": "Focus on open communication in your relationships. Be understanding and patient with your partner.",
+        "personalGrowth": "This is a good time for self-reflection. Identify areas where you want to grow and take steps towards improvement.",
+        "family": "Spend quality time with your family. Address any underlying issues with open communication.",
+        "socialConnections": "Your social life is vibrant. Engage with friends and expand your network.",
+        "health": "Pay attention to your health. Maintain a balanced diet and exercise regularly. Prioritize mental wellness."
+    },
+    "gemstoneSuggestions": {
+        "gemstone": "Yellow Sapphire",
+        "reason": "Enhances wisdom, knowledge and prosperity."
+    },
+    "rituals": [
+        {
+            "ritualName": "Lakshmi Puja",
+            "benefits": "Attracts wealth and abundance."
+        }
+    ],
+    "dosAndDonts": {
+        "dos": [
+            "Be open to new experiences.",
+            "Communicate clearly.",
+            "Prioritize your health."
+        ],
+        "donts": [
+            "Avoid impulsive decisions.",
+            "Don't overspend.",
+            "Don't neglect your relationships."
+        ]
+    },
+    "spiritualRecommendations": {
+        "meditation": "Practice mindfulness meditation to enhance focus and reduce stress.",
+        "workout": "Engage in grounding exercises like yoga or tai chi.",
+        "sleepContent": "Listen to calming music before bed to improve sleep quality."
+    },
+    "successMatrix": {
+        "career": "Focus, dedication, and networking are key to career success.",
+        "relationships": "Open communication and understanding are crucial for successful relationships.",
+        "personalGrowth": "Self-reflection and continuous learning are essential for personal growth."
+    }
+}
