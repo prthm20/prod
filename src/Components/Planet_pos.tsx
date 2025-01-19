@@ -14,7 +14,7 @@ interface PlanetPositionParams {
 
 // Define the response structure (adjust as needed based on API response)
 interface PlanetPositionResponse {
-  [key: string]: any; // Adjust according to the actual shape of the response
+  key: string; // Adjust according to the actual shape of the response
 }
 
 export async function fetch_Planet_position({
