@@ -57,7 +57,7 @@ export default function AstrologyHomePage() {
       {/* Daily Horoscope Section */}
       <section className="bg-purple-800 py-16 px-4">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-4xl font-bold text-center mb-12">Today's Celestial Forecast</h2>
+          <h2 className="text-4xl font-bold text-center mb-12">Today&apos;s Celestial Forecast</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-purple-700 p-6 rounded-lg">
               <Sun className="w-12 h-12 mb-4 text-yellow-400" />
