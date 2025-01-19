@@ -17,7 +17,7 @@ interface FormData {
 
 const AstrologyForm = () => {
   const [svgContent, setSVGContent] = useState<string | null>(null);
-  const [planetData, setPlanetData] = useState<any>(null);
+  
   const [info, setInfo] = useState<string>("");
 
   const [formData, setFormData] = useState<FormData>({
@@ -85,10 +85,10 @@ const AstrologyForm = () => {
       setSVGContent(svg);
 
       const planetDataResponse = await fetch_Planet_position(dataToSubmit);
-      setPlanetData(planetDataResponse);
+      
 
-      let string_data = JSON.stringify(planetDataResponse);
-      let result = await Info(string_data);
+      const string_data = JSON.stringify(planetDataResponse);
+      const result = await Info(string_data);
 
       setInfo(result);
     } catch (error) {
